@@ -1,0 +1,25 @@
+.box {
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 4px 4px black;
+    padding: 10px;
+    font-family: "courier" monospace;
+}
+
+.box1 {background-color: #ff0000;}
+.box2 {background-color: #fc4444;}
+.box3 {background-color: #fc8c84;}
+.box4 {background-color: #fc6404;}
+.box5 {background-color: #fcd444;}
+.box6 {background-color: #8cc43c;}
+.box7 {background-color: #029658;}
+.box8 {background-color: #1abc9c;}
+.box9 {background-color: #5bc0de;}
+.box10 {background-color: #6454ac;}
+
+.container {
+    display: flex;
+    border: 10px solid black;
+    height: 100vh;
+}
